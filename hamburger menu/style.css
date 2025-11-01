@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+}
+.container{
+    width: 300px;
+    height: 100vh;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    padding: 4px;
+    display: block;
+    color: bisque;
+}
+a:hover{
+    color: orange;
+}
+button{
+    background-color: blueviolet;
+    border: none;
+    color: bisque;
+    border-radius: 50px;
+}
+button:hover{
+    background-color: aquamarine;
+    color: black;
+}
+#close{
+    position: absolute;
+    left: 304px;
+}
